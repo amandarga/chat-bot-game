@@ -25,7 +25,9 @@ def o2(mensagem):
 def o3(mensagem):
     texto = """
     *Resident Evil 4* \n
-    
+    Seis anos após o desastre biológico em Raccoon City, o agente especial Leon S. Kennedy é enviado em uma missão secreta para resgatar Ashley Graham, a filha sequestrada do presidente dos Estados Unidos. Sua busca o leva a uma isolada vila na Europa, onde os habitantes foram infectados por um parasita misterioso conhecido como Las Plagas.
+    Enquanto enfrenta hordas de aldeões hostis, monstros grotescos e inimigos que desafiam a razão humana, Leon descobre uma conspiração que ameaça muito mais do que a vida da garota — colocando em risco toda a humanidade.
+    Entre ação intensa, suspense constante e atmosfera sombria, Resident Evil 4 redefine o horror de sobrevivência, equilibrando perfeitamente medo, estratégia e adrenalina.
     """
     bot.send_message(mensagem.chat.id, texto)
 
@@ -33,7 +35,9 @@ def o3(mensagem):
 def o4(mensagem):
     texto = """
     *The Legend of Zelda: Breath of the Wild* \n
-    
+    Após um sono de cem anos, o herói Link desperta em um mundo devastado e repleto de ruínas. Sem memória de seu passado, ele descobre que o reino de Hyrule foi destruído por uma força sombria conhecida como Calamity Ganon, que agora ameaça ressurgir e consumir tudo novamente.
+    Guiado por vozes do passado e pela força de sua própria coragem, Link parte em uma jornada épica para recuperar suas lembranças, reunir aliados e libertar as quatro poderosas Criaturas Divinas. Somente então ele poderá enfrentar Ganon e salvar a princesa Zelda, que há um século mantém o mal contido com suas últimas forças.
+    Em um vasto mundo aberto, cheio de segredos, perigos e liberdade total, Breath of the Wild redefine a aventura, convidando o jogador a explorar, descobrir e forjar seu próprio caminho para a lenda.
     """
     bot.send_message(mensagem.chat.id, texto)
 
@@ -41,7 +45,9 @@ def o4(mensagem):
 def o5(mensagem):
     texto = """
     *Cyberpunk 2077* \n
-    
+    Em um futuro distópico onde megacorporações dominam o mundo e a linha entre homem e máquina é quase inexistente, V — um mercenário em ascensão — busca o maior prêmio de todos: um implante lendário que promete a imortalidade.
+    Ambientado em Night City, uma metrópole vibrante e brutal, cheia de neon, violência e ambição, V precisa forjar seu próprio caminho entre gangues, hackers e executivos sem alma. Quando um golpe dá errado, ele se vê conectado à consciência digital do lendário fora-da-lei Johnny Silverhand, vivido por Keanu Reeves — e juntos, lutam pelo controle do corpo e pelo destino da cidade.
+    Com escolhas morais complexas, personagens marcantes e uma narrativa que se molda às decisões do jogador, Cyberpunk 2077 é uma jornada sobre poder, identidade e o preço de desafiar o sistema.
     """
     bot.send_message(mensagem.chat.id, texto)
 
@@ -49,7 +55,10 @@ def o5(mensagem):
 def o6(mensagem):
     texto = """
     *Hogwarts Legacy* \n
-    
+    Muito antes das aventuras de Harry Potter, no final do século XIX, um novo estudante chega à Escola de Magia e Bruxaria de Hogwarts com um segredo extraordinário: a rara habilidade de manipular uma antiga e poderosa magia esquecida pelo tempo.
+    Como aluno recém-admitido, o jogador pode escolher sua casa, assistir a aulas icônicas como Poções, Defesa Contra as Artes das Trevas e Herbologia, e explorar livremente o vasto mundo mágico — desde os salões encantados de Hogwarts até as florestas sombrias e vilarejos misteriosos além dos muros do castelo.
+    Mas uma rebelião sombria ameaça o equilíbrio do mundo bruxo. Cabe a você dominar feitiços, formar alianças e decidir o destino da magia antiga — usando-a para proteger ou para destruir.
+    Hogwarts Legacy é uma jornada de descoberta, poder e escolhas, onde cada decisão molda o legado que você deixará em Hogwarts.
     """
     bot.send_message(mensagem.chat.id, texto)
 
