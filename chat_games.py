@@ -80,6 +80,7 @@ def verificar(mensagem):
 def responder(mensagem):
     texto = """
     Oiee! Espero que esteja bem! Aqui tem algumas sinopses de jogos para você!
+    Aperte o botão correspondente ao jogo que você deseja!
     
     /1 - God of War
     /2 - Red Dead Redemption 2
